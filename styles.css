@@ -1,0 +1,35 @@
+.color1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff0000;
+    width: 100px;
+    height: 100px;
+    border: solid
+}
+.color2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0000ff;
+    width: 100px;
+    height: 100px;
+    border: solid
+
+}
+.color3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #008000;
+    width: 100px;
+    height: 100px;
+    border: solid
+
+}
+
+.padre{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
